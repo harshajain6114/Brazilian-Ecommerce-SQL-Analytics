@@ -87,10 +87,6 @@ Comprehensive business intelligence analysis of Brazilian e-commerce data using 
 │   └── 06_operational_metrics.sql
 ├── reports/
 │   └── business_insights_report.md
-├── results/
-│   ├── customer_segments.csv
-│   ├── monthly_revenue.csv
-│   └── top_products.csv
 └── README.md
 ```
 
@@ -124,13 +120,6 @@ This analysis provides a foundation for data-driven decision making in e-commerc
 - Data storytelling and insight generation
 - Statistical analysis and trend identification
 
-## Tools and Technologies
-
-- Database: SQLite with DB Browser interface
-- Query Language: SQL with advanced functions
-- Data Processing: Complex analytical queries
-- Documentation: Markdown for professional reporting
-- Version Control: Git for project management
 
 ## Project Outcomes
 
@@ -139,3 +128,4 @@ The analysis delivers actionable business insights through systematic data explo
 ## Repository Access
 
 All SQL queries, analysis results, and documentation are available in this repository for review and validation of analytical methodologies and business conclusions.
+
